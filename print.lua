@@ -1,1 +1,1 @@
-print("Hello World from Lua!")
+print("teste 123")
